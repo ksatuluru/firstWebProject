@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.carona</groupId>
-	<artifactId>firstWeProject</artifactId>
+	<artifactId>firstWebProject</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>firstWeProject</name>
+	<name>firstWebProject</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
